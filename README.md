@@ -24,3 +24,7 @@ Polynomials are represented as base-1000 integers, a trick made possible by Pete
 As mentioned above, it would be great to get enough invariants together to uniquely identify all knots up to 10 (or more?) crossings.
 
 For what it's worth, the original plan involved far more ambitious goals -- I wanted to create a system allowing the user to freely manipulate a knot diagram, pulling around strands, rotating models in 3D space, and exploring the structure of Reidemeister moves. But my commitment to this goal has waned somewhat since coming across [this wonderful work by Zhang et al.](http://www.computer.org/csdl/trans/tg/2012/12/ttg2012122051-abs.html).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/joshuahhh/knot-identification-tool/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
