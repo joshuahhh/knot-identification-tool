@@ -1,7 +1,7 @@
 knot-identification-tool
 ========================
 
-Hey! Got any [knots](http://en.wikipedia.org/wiki/Knot_%28mathematics%29) you need to identify? I made [this thing](http://web.mit.edu/joshuah/www/projects/kit) for you.
+Hey! Got any [knots](http://en.wikipedia.org/wiki/Knot_%28mathematics%29) you need to identify? I made [this thing](http://joshuahhh.com/projects/kit/) for you.
 
 Draw the shadow of your knot by dragging inside the dashed box. Then, click intersections to flip crossings and recreate the 3D structure of your knot. Our advanced technology will compute the intrinsic topological identity of your knot and show it to you on the right-hand side of the screen. It will also let you know if it was only able to narrow down the identity to a (small) set of possibilities, or if your knot has so many crossings that it can't be sure at all what the knot is.
 
@@ -24,7 +24,3 @@ Polynomials are represented as base-1000 integers, a trick made possible by Pete
 As mentioned above, it would be great to get enough invariants together to uniquely identify all knots up to 10 (or more?) crossings.
 
 For what it's worth, the original plan involved far more ambitious goals -- I wanted to create a system allowing the user to freely manipulate a knot diagram, pulling around strands, rotating models in 3D space, and exploring the structure of Reidemeister moves. But my commitment to this goal has waned somewhat since coming across [this wonderful work by Zhang et al.](http://www.computer.org/csdl/trans/tg/2012/12/ttg2012122051-abs.html).
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/joshuahhh/knot-identification-tool/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
